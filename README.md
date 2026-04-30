@@ -21,8 +21,8 @@ Este repositório contém o estudo comparativo de desempenho entre a implementa�
 
 ## 👥 Integrantes (Grupo 1)
 - Raimundo Pereira da Silva Júnior
-- Iago
-- Thiago
 - Elder
+- Thiago
+- Iago
 
 *Nota: A estruturação lógica das funções contou com o suporte do modelo Gemini (Google).*
